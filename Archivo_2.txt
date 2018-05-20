@@ -1,3 +1,3 @@
 Archivo de prueba 2
 editando desde el repositorio remoto
-fetch prueba
+fetch prueba2
