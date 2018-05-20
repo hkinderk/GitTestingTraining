@@ -1,2 +1,4 @@
 Este es el archivo de prueba 1
+prueba stash
+prueba cherry pick
 
